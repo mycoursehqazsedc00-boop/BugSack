@@ -5,7 +5,7 @@ Error viewer, chat/sound notifier, and FuBar plugin for **!BugGrabber** in World
 ## Client DLL Requirements
 
 - **Required DLLs:** None. Runs purely on stock WoW 1.12.1 / Turtle WoW Lua 5.0 with zero external DLL dependencies.
-- **Required Addon:** `!BugGrabber` (`## RequiredDeps: !BugGrabber`).
+- **Required Addon:** [`!BugGrabber`](https://github.com/mycoursehqazsedc00-boop/-BugGrabber) (`## RequiredDeps: !BugGrabber`).
 
 ## Features
 
