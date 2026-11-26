@@ -1,6 +1,8 @@
 # BugSack (Vanilla 1.12.1 / Turtle WoW)
 
-Error viewer, chat/sound notifier, and FuBar plugin for **!BugGrabber** in World of Warcraft 1.12.1 (strict Lua 5.0), upgraded from upstream **BugSack v2.1.0**.
+Error viewer, chat/sound notifier, and FuBar plugin for **[`!BugGrabber`](https://github.com/mycoursehqazsedc00-boop/-BugGrabber)** in World of Warcraft 1.12.1 (strict Lua 5.0), upgraded from upstream **BugSack v2.1.0**.
+
+> **Required Dependency:** [`!BugGrabber`](https://github.com/mycoursehqazsedc00-boop/-BugGrabber) (`## RequiredDeps: !BugGrabber`).
 
 ## Client DLL Requirements
 
